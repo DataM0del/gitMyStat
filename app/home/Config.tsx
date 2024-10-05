@@ -26,7 +26,7 @@ export default function Config() {
         <div className="flex flex-col justify-start">
           <h3 className="text-left text-3xl font-bold">Cards</h3>
           <p className="max-w-[800px] text-lg">
-            These are the list of card component to display your GitHub profile,
+            These are the list of card component to display your (insert Git provider here) profile,
             repository, and more. The card component is a dynamic component that
             can be configured.
           </p>

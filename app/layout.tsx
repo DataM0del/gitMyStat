@@ -17,7 +17,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   title: "gitMyStat!",
-  description: "Turn your GitHub activity into sleek stats and cool visuals",
+  description: "Turn your (insert Git provider here) activity into sleek stats and cool visuals",
   icons: {
     icon: "/favicon.ico",
   },

@@ -2,7 +2,7 @@
 
 # gitMyStat!
 
-~~Get~~ Git my stat! 🎨 Turn your GitHub activity into sleek stats and cool visuals
+~~Get~~ Git my stat! 🎨 Turn your (insert Git provider here) activity into sleek stats and cool visuals
 
 > Inspired by a great project [github-readme-stats](https://github.com/anuraghazra/github-readme-stats/)
 

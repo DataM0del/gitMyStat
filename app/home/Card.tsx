@@ -4,11 +4,13 @@ import { Themes } from "@/themes";
 export default function Card({
   theme = "dark",
   url = "/repo?username=rahuletto&repo=gitMyStat",
+  gitProviderName = "GitHub",
   text,
   width,
 }: {
   theme?: string;
   url?: string;
+  gitProviderName?: string;
   text?: string;
   width?: number;
 }) {
@@ -25,7 +27,7 @@ export default function Card({
           height={170}
           loading="lazy"
           src={`${url}&theme=${theme}`}
-          alt="GitHub"
+          alt={gitProviderName}
         />
       </picture>
       <code
